@@ -1,6 +1,5 @@
 import pandas as pd 
 from tkinter import *
-from tkinter import font
 
 def show_data():
     movieName = ent.get()
